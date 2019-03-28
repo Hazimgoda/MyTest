@@ -38,77 +38,77 @@
       <![CDATA[Log Out From The Google Play]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="81191" started-at="2019-03-28T07:43:33Z" finished-at="2019-03-28T07:44:54Z">
+  <suite name="Default suite" duration-ms="137637" started-at="2019-03-28T08:31:00Z" finished-at="2019-03-28T08:33:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="81191" started-at="2019-03-28T07:43:33Z" finished-at="2019-03-28T07:44:54Z">
+    <test name="Default test" duration-ms="137637" started-at="2019-03-28T08:31:00Z" finished-at="2019-03-28T08:33:17Z">
       <class name="test.TestExecution">
-        <test-method status="PASS" signature="setup()[pri:0, instance:test.TestExecution@4cc0edeb]" name="setup" is-config="true" duration-ms="13457" started-at="2019-03-28T09:43:33Z" finished-at="2019-03-28T09:43:46Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.TestExecution@4cc0edeb]" name="setup" is-config="true" duration-ms="42432" started-at="2019-03-28T10:31:00Z" finished-at="2019-03-28T10:31:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testSignIn()[pri:1, instance:test.TestExecution@4cc0edeb]" name="testSignIn" duration-ms="5636" started-at="2019-03-28T09:43:46Z" finished-at="2019-03-28T09:43:52Z">
+        <test-method status="PASS" signature="testSignIn()[pri:1, instance:test.TestExecution@4cc0edeb]" name="testSignIn" duration-ms="34826" started-at="2019-03-28T10:31:42Z" finished-at="2019-03-28T10:32:17Z">
           <reporter-output>
             <line>
               <![CDATA[Sign In]]>
             </line>
           </reporter-output>
         </test-method> <!-- testSignIn -->
-        <test-method status="PASS" signature="testLoginUser()[pri:2, instance:test.TestExecution@4cc0edeb]" name="testLoginUser" duration-ms="3220" started-at="2019-03-28T09:43:52Z" finished-at="2019-03-28T09:43:55Z">
+        <test-method status="PASS" signature="testLoginUser()[pri:2, instance:test.TestExecution@4cc0edeb]" name="testLoginUser" duration-ms="3068" started-at="2019-03-28T10:32:17Z" finished-at="2019-03-28T10:32:20Z">
           <reporter-output>
             <line>
               <![CDATA[User has been loged as : مرحبًا]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginUser -->
-        <test-method status="PASS" signature="testLoginPassword()[pri:3, instance:test.TestExecution@4cc0edeb]" name="testLoginPassword" duration-ms="7925" started-at="2019-03-28T09:43:55Z" finished-at="2019-03-28T09:44:03Z">
+        <test-method status="PASS" signature="testLoginPassword()[pri:3, instance:test.TestExecution@4cc0edeb]" name="testLoginPassword" duration-ms="5621" started-at="2019-03-28T10:32:20Z" finished-at="2019-03-28T10:32:26Z">
           <reporter-output>
             <line>
               <![CDATA[Home Page Header Title is : Top Selling Movies]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginPassword -->
-        <test-method status="PASS" signature="search()[pri:4, instance:test.TestExecution@4cc0edeb]" name="search" duration-ms="5643" started-at="2019-03-28T09:44:03Z" finished-at="2019-03-28T09:44:09Z">
+        <test-method status="PASS" signature="search()[pri:4, instance:test.TestExecution@4cc0edeb]" name="search" duration-ms="7680" started-at="2019-03-28T10:32:26Z" finished-at="2019-03-28T10:32:33Z">
           <reporter-output>
             <line>
               <![CDATA[Check if Number of search result is greater than 0 Number of Serch is  : 150]]>
             </line>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method status="PASS" signature="clickOnTheSearchResultLink()[pri:5, instance:test.TestExecution@4cc0edeb]" name="clickOnTheSearchResultLink" duration-ms="3896" started-at="2019-03-28T09:44:09Z" finished-at="2019-03-28T09:44:13Z">
+        <test-method status="PASS" signature="clickOnTheSearchResultLink()[pri:5, instance:test.TestExecution@4cc0edeb]" name="clickOnTheSearchResultLink" duration-ms="3724" started-at="2019-03-28T10:32:33Z" finished-at="2019-03-28T10:32:37Z">
           <reporter-output>
             <line>
               <![CDATA[Check if click the search text link and redirect to the Application specification : true]]>
             </line>
           </reporter-output>
         </test-method> <!-- clickOnTheSearchResultLink -->
-        <test-method status="PASS" signature="addOpenWishlist()[pri:6, instance:test.TestExecution@4cc0edeb]" name="addOpenWishlist" duration-ms="59" started-at="2019-03-28T09:44:13Z" finished-at="2019-03-28T09:44:13Z">
+        <test-method status="PASS" signature="addOpenWishlist()[pri:6, instance:test.TestExecution@4cc0edeb]" name="addOpenWishlist" duration-ms="59" started-at="2019-03-28T10:32:37Z" finished-at="2019-03-28T10:32:37Z">
           <reporter-output>
             <line>
               <![CDATA[already installed]]>
             </line>
           </reporter-output>
         </test-method> <!-- addOpenWishlist -->
-        <test-method status="PASS" signature="clickonWishListLink()[pri:7, instance:test.TestExecution@4cc0edeb]" name="clickonWishListLink" duration-ms="42" started-at="2019-03-28T09:44:13Z" finished-at="2019-03-28T09:44:13Z">
+        <test-method status="PASS" signature="clickonWishListLink()[pri:7, instance:test.TestExecution@4cc0edeb]" name="clickonWishListLink" duration-ms="31" started-at="2019-03-28T10:32:37Z" finished-at="2019-03-28T10:32:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickonWishListLink -->
-        <test-method status="PASS" signature="clickoninstallButton()[pri:8, instance:test.TestExecution@4cc0edeb]" name="clickoninstallButton" duration-ms="39" started-at="2019-03-28T09:44:13Z" finished-at="2019-03-28T09:44:13Z">
+        <test-method status="PASS" signature="clickoninstallButton()[pri:8, instance:test.TestExecution@4cc0edeb]" name="clickoninstallButton" duration-ms="33" started-at="2019-03-28T10:32:37Z" finished-at="2019-03-28T10:32:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickoninstallButton -->
-        <test-method status="PASS" signature="clickonPopupinstallButton()[pri:9, instance:test.TestExecution@4cc0edeb]" name="clickonPopupinstallButton" duration-ms="45" started-at="2019-03-28T09:44:13Z" finished-at="2019-03-28T09:44:13Z">
+        <test-method status="PASS" signature="clickonPopupinstallButton()[pri:9, instance:test.TestExecution@4cc0edeb]" name="clickonPopupinstallButton" duration-ms="28" started-at="2019-03-28T10:32:37Z" finished-at="2019-03-28T10:32:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickonPopupinstallButton -->
-        <test-method status="PASS" signature="clickOkButton()[pri:10, instance:test.TestExecution@4cc0edeb]" name="clickOkButton" duration-ms="20601" started-at="2019-03-28T09:44:13Z" finished-at="2019-03-28T09:44:34Z">
+        <test-method status="PASS" signature="clickOkButton()[pri:10, instance:test.TestExecution@4cc0edeb]" name="clickOkButton" duration-ms="20603" started-at="2019-03-28T10:32:37Z" finished-at="2019-03-28T10:32:58Z">
           <reporter-output>
             <line>
               <![CDATA[Ok Button Not Clicked]]>
             </line>
           </reporter-output>
         </test-method> <!-- clickOkButton -->
-        <test-method status="PASS" signature="clickWriteaReview()[pri:11, instance:test.TestExecution@4cc0edeb]" name="clickWriteaReview" duration-ms="4316" started-at="2019-03-28T09:44:34Z" finished-at="2019-03-28T09:44:38Z">
+        <test-method status="PASS" signature="clickWriteaReview()[pri:11, instance:test.TestExecution@4cc0edeb]" name="clickWriteaReview" duration-ms="4435" started-at="2019-03-28T10:32:58Z" finished-at="2019-03-28T10:33:02Z">
           <reporter-output>
             <line>
               <![CDATA[Continue Button Already Clicked before]]>
@@ -118,28 +118,28 @@
             </line>
           </reporter-output>
         </test-method> <!-- clickWriteaReview -->
-        <test-method status="PASS" signature="writeaReviewText()[pri:12, instance:test.TestExecution@4cc0edeb]" name="writeaReviewText" duration-ms="4045" started-at="2019-03-28T09:44:38Z" finished-at="2019-03-28T09:44:42Z">
+        <test-method status="PASS" signature="writeaReviewText()[pri:12, instance:test.TestExecution@4cc0edeb]" name="writeaReviewText" duration-ms="4049" started-at="2019-03-28T10:33:02Z" finished-at="2019-03-28T10:33:06Z">
           <reporter-output>
             <line>
               <![CDATA[Fifth star has been selected and written Test]]>
             </line>
           </reporter-output>
         </test-method> <!-- writeaReviewText -->
-        <test-method status="PASS" signature="deleteWritenReview()[pri:13, instance:test.TestExecution@4cc0edeb]" name="deleteWritenReview" duration-ms="3108" started-at="2019-03-28T09:44:42Z" finished-at="2019-03-28T09:44:45Z">
+        <test-method status="PASS" signature="deleteWritenReview()[pri:13, instance:test.TestExecution@4cc0edeb]" name="deleteWritenReview" duration-ms="3073" started-at="2019-03-28T10:33:06Z" finished-at="2019-03-28T10:33:10Z">
           <reporter-output>
             <line>
               <![CDATA[Review has been deleted]]>
             </line>
           </reporter-output>
         </test-method> <!-- deleteWritenReview -->
-        <test-method status="PASS" signature="logOut()[pri:14, instance:test.TestExecution@4cc0edeb]" name="logOut" duration-ms="8376" started-at="2019-03-28T09:44:45Z" finished-at="2019-03-28T09:44:53Z">
+        <test-method status="PASS" signature="logOut()[pri:14, instance:test.TestExecution@4cc0edeb]" name="logOut" duration-ms="7107" started-at="2019-03-28T10:33:10Z" finished-at="2019-03-28T10:33:17Z">
           <reporter-output>
             <line>
               <![CDATA[Log Out From The Google Play]]>
             </line>
           </reporter-output>
         </test-method> <!-- logOut -->
-        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:test.TestExecution@4cc0edeb]" name="CloseBrowser" is-config="true" duration-ms="719" started-at="2019-03-28T09:44:53Z" finished-at="2019-03-28T09:44:54Z">
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:test.TestExecution@4cc0edeb]" name="CloseBrowser" is-config="true" duration-ms="810" started-at="2019-03-28T10:33:17Z" finished-at="2019-03-28T10:33:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
